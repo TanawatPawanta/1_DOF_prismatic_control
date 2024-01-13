@@ -27,13 +27,17 @@
 >
   reference:https://www.kalmanfilter.net/multiSummary.html
  - Process model
+>
    <img width="561" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/bd3e285f-d64b-450d-89dc-8b8b2ae52fa5">
-
+>
  - Measurement model(measure from encoder)
+>
    <img width="254" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/e6d47762-5d16-4b2b-8e59-41d197582a42">
-   
+>
 > resault from Kalman Filter
+>
   ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/ef971293-67da-498f-becb-999ebc60311b)
+>
 > velocity from trajectory : orange graph
 > velocity calculate from encoder : blue graph
 > Estimate velocity : green graph
