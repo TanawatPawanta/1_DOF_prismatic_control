@@ -10,10 +10,14 @@
 > ## Trajectory
 > In this project I had developed 2 types of trajectory 
 > 
- 1. Quintic Polynomial trajectory
+ 1. Quintic Polynomial trajectory(current use in project)
    ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/b501ef99-1cc7-48c1-9f6e-91ac8eaa5505)
 
  2. Trapizoid velocity profile trajectory
+    ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/7ab99fa7-cd0c-4cc5-8204-e1d720ba64b8)
 
 > ## Controller
+> In this project I use cascade control for control velocity and position
+> ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/fbb96503-c6bc-42bc-8ed9-13df1e0a099d)
+
 > ## State Estimator
