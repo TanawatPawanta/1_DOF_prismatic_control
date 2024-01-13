@@ -43,7 +43,9 @@
   ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/ef971293-67da-498f-becb-999ebc60311b)
 >
 > velocity from trajectory : orange graph
+>
 > velocity calculate from encoder : blue graph
+>
 > Estimate velocity : green graph
 
 
