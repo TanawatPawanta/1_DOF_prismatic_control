@@ -10,8 +10,9 @@
 > ## Trajectory
 > In this project I had developed 2 types of trajectory 
 > 
-
  1. Quintic Polynomial trajectory
+   ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/b501ef99-1cc7-48c1-9f6e-91ac8eaa5505)
+
  2. Trapizoid velocity profile trajectory
 
 > ## Controller
