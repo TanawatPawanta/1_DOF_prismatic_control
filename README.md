@@ -11,7 +11,7 @@
 > In this project I had developed 2 types of trajectory 
 > 
  1. Quintic Polynomial trajectory(current use in project)
-   ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/b501ef99-1cc7-48c1-9f6e-91ac8eaa5505)
+    ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/b501ef99-1cc7-48c1-9f6e-91ac8eaa5505)
 
  2. Trapizoid velocity profile trajectory
     ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/7ab99fa7-cd0c-4cc5-8204-e1d720ba64b8)
@@ -22,7 +22,9 @@
 
 > ## State Estimator
   Use Kalman Filter for estimate a velocity
+>
   ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/7641d945-e50f-4440-a596-71ba243ed197)
+>
   reference:https://www.kalmanfilter.net/multiSummary.html
  - Process model
    <img width="561" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/bd3e285f-d64b-450d-89dc-8b8b2ae52fa5">
