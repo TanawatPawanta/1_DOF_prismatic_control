@@ -17,21 +17,21 @@
     ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/7ab99fa7-cd0c-4cc5-8204-e1d720ba64b8)
 
 > ## Controller
-> In this project I use cascade control for control velocity and position
-> ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/fbb96503-c6bc-42bc-8ed9-13df1e0a099d)
+  In this project I use cascade control for control velocity and position
+  ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/fbb96503-c6bc-42bc-8ed9-13df1e0a099d)
 
 > ## State Estimator
-> Use Kalman Filter for estimate a velocity
-> ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/7641d945-e50f-4440-a596-71ba243ed197)
-> reference:https://www.kalmanfilter.net/multiSummary.html
+  Use Kalman Filter for estimate a velocity
+  ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/7641d945-e50f-4440-a596-71ba243ed197)
+  reference:https://www.kalmanfilter.net/multiSummary.html
  - Process model
- - <img width="561" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/bd3e285f-d64b-450d-89dc-8b8b2ae52fa5">
+   <img width="561" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/bd3e285f-d64b-450d-89dc-8b8b2ae52fa5">
 
  - Measurement model(measure from encoder)
    <img width="254" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/e6d47762-5d16-4b2b-8e59-41d197582a42">
    
 > resault from Kalman Filter
-> ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/ef971293-67da-498f-becb-999ebc60311b)
+  ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/ef971293-67da-498f-becb-999ebc60311b)
 > velocity from trajectory : orange graph
 > velocity calculate from encoder : blue graph
 > Estimate velocity : green graph
