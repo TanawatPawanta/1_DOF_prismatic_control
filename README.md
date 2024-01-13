@@ -6,6 +6,7 @@
  - [**Trajectory**](#Trajectory)
  - [**Trajectory Tracker**](#Trajectory-Tracker)
  - [**State Estimator**](#State-Estimator)
+ - [**Hardware**](#Hardware)
 > ## System Architecture
 >
 > <img width="978" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/56750dac-22e1-4bfb-b804-850b0ac4647f">
@@ -47,5 +48,16 @@
 > velocity calculate from encoder : blue graph
 >
 > Estimate velocity : green graph
+>
+> ## Hardware
+>
+><img width="508" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/6bd922af-48d5-4c56-a118-e82fbd673290">
+>
+><img width="455" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/0d953b60-ccb4-47a3-a9f5-327f7c540013">
+>
+><img width="237" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/4987802e-ac71-4c0e-ac6e-6fba5470c79c">
+
+
+
 
 
