@@ -4,7 +4,7 @@
 > ## Table of contents
  - [**System Architecture**](#System-Architecture)
  - [**Trajectory**](#Trajectory)
- - [**Controller**](#Controller)
+ - [**Trajectory Tracker**](#Trajectory-Tracker)
  - [**State Estimator**](#State-Estimator)
 > ## System Architecture
 >
@@ -19,7 +19,7 @@
  2. Trapizoid velocity profile trajectory
     ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/7ab99fa7-cd0c-4cc5-8204-e1d720ba64b8)
 
-> ## Controller
+> ## Trajectory Tracker
   In this project I use cascade control for control velocity and position
   ![image](https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/fbb96503-c6bc-42bc-8ed9-13df1e0a099d)
 
