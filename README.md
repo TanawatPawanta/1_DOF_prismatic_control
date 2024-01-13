@@ -2,11 +2,14 @@
 > # 1 DOF prismatic robot arm
 > This is complete of control part of 1 DOF prismatic robot arm, in this repostory will contain code  about the trajectory, controller, and state estimator. Each part will be split into a header file and source file.This code was implemented on STM32 f411re by C langue and and require DSP(Digital Signal Processing) for matrix calculation.
 > ## Table of contents
- - [**Control System Architecture**](#Control-System-Architecture)
+ - [**System Architecture**](#System-Architecture)
  - [**Trajectory**](#Trajectory)
  - [**Controller**](#Controller)
  - [**State Estimator**](#State-Estimator)
-> ## Control System Architecture
+> ## System Architecture
+>
+> <img width="978" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/56750dac-22e1-4bfb-b804-850b0ac4647f">
+> 
 > ## Trajectory
 > In this project I had developed 2 types of trajectory 
 > 
