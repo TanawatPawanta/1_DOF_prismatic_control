@@ -48,7 +48,7 @@
 > velocity calculate from encoder : blue graph
 >
 > Estimate velocity : green graph
->
+
 > ## Hardware
 >
 ><img width="508" alt="image" src="https://github.com/TanawatPawanta/1_DOF_prismatic_control/assets/83177015/6bd922af-48d5-4c56-a118-e82fbd673290">
